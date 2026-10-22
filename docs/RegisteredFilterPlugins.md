@@ -746,7 +746,7 @@ License: https://github.com/szcompressor/SZ3/blob/master/copyright-and-BSD-licen
 ##### Contact
 
 Kai Zhao<br/>
-Email: kzhao2 at fsu dot edu
+Email: kai dot zhao at fsu dot edu
 
 Sheng Di<br/>
 Email: sdi1 at anl dot gov
